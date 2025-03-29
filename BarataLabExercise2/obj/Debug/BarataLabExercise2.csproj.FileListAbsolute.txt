@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\My Documents\School\BSCS-2A\2nd Semester\Object Oriented Programming\Visual Studio Projects\Assessment1\BarataLabExercise2\BarataLabExercise2\bin\Debug\BarataLabExercise2.exe.config
+C:\Users\ADMIN\Documents\My Documents\School\BSCS-2A\2nd Semester\Object Oriented Programming\Visual Studio Projects\Assessment1\BarataLabExercise2\BarataLabExercise2\bin\Debug\BarataLabExercise2.exe
+C:\Users\ADMIN\Documents\My Documents\School\BSCS-2A\2nd Semester\Object Oriented Programming\Visual Studio Projects\Assessment1\BarataLabExercise2\BarataLabExercise2\bin\Debug\BarataLabExercise2.pdb
+C:\Users\ADMIN\Documents\My Documents\School\BSCS-2A\2nd Semester\Object Oriented Programming\Visual Studio Projects\Assessment1\BarataLabExercise2\BarataLabExercise2\obj\Debug\BarataLabExercise2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\My Documents\School\BSCS-2A\2nd Semester\Object Oriented Programming\Visual Studio Projects\Assessment1\BarataLabExercise2\BarataLabExercise2\obj\Debug\BarataLabExercise2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\My Documents\School\BSCS-2A\2nd Semester\Object Oriented Programming\Visual Studio Projects\Assessment1\BarataLabExercise2\BarataLabExercise2\obj\Debug\BarataLabExercise2.exe
+C:\Users\ADMIN\Documents\My Documents\School\BSCS-2A\2nd Semester\Object Oriented Programming\Visual Studio Projects\Assessment1\BarataLabExercise2\BarataLabExercise2\obj\Debug\BarataLabExercise2.pdb
